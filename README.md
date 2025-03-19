@@ -58,28 +58,23 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## Usage
-**Enter Assembly Code:**
-
+- Enter Assembly Code:
     Manually type or paste assembly code.
     Upload an .asm or .txt file.
     Load a pre-written example from the examples folder.
 
-**Select Output Format:**
-
+- Select Output Format:
     Choose Hex or Binary format.
 
-**Assemble the Code:**
-
+- Assemble the Code:**
     Click Assemble to convert assembly into machine code.
     Download the assembled output using Download Assembled Code.
 
-**Run CPU Simulation:**
-
+- Run CPU Simulation:**
     Click Run CPU to execute the machine code.
     Inspect CPU register values and memory state.
 
-**View Instructions:**
-
+- View Instructions:
     Expand the Instructions sidebar for a guide on supported operations.
 ## Challanges Faced
   During development we encountered these challanges which are resolved now
