@@ -91,11 +91,11 @@ streamlit run app.py
 ![Web Interface 2](images/web_interface2.png)
     
 ## Further Improvements
-**Step-by-Step Execution:**
-Allow users to execute one instruction at a time.
-**Memory Visualization:**
-Display changes in memory dynamically.
-**Debugging Mode:**
-Add breakpoints for debugging.
-**Syntax Highlighting:**
-Improve assembly code editor with syntax highlighting.
+- Step-by-Step Execution:
+    Allow users to execute one instruction at a time.
+- Memory Visualization:
+    Display changes in memory dynamically.
+- Debugging Mode:
+    Add breakpoints for debugging.
+- Syntax Highlighting:
+    Improve assembly code editor with syntax highlighting.
