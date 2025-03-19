@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from cpu_simulator import SimpleRiscCPU
-from Assembler import assemble_progarm, binary_to_hex
+from assembler_logic import assemble_progarm, binary_to_hex
 st.title("SimpleRisc Assembler & CPU Simulator")
 
 st.header("Assembly Input Upolad / Examples")
