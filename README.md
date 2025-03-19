@@ -81,7 +81,7 @@ streamlit run app.py
 **View Instructions:**
 
     Expand the Instructions sidebar for a guide on supported operations.
-##Challanges Faced
+## Challanges Faced
   During development we encountered these challanges which are resolved now
   - Instruction Encoding:- Handeling various instruction formats such as modifiers 'movu' & 'movh' during encoding.
   - Implementing a two-pass assembler to currectly resolve labels.
